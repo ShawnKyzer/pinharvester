@@ -1,0 +1,497 @@
+[INFO  - 2015-12-17T18:36:47.823Z] GhostDriver - Main - running on port 48513
+[INFO  - 2015-12-17T18:36:48.037Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:36:48.038Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:36:48.038Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:36:48.038Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 21772910-a4ed-11e5-b2f0-ed70239de01d
+[ERROR - 2015-12-17T18:36:48.907Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:36:48.907Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+  t (https://www.pinterest.com/login/:23)
+  c (https://www.pinterest.com/login/:23)
+  p (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+[ERROR - 2015-12-17T18:36:48.983Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:36:48.983Z] Session [21772910-a4ed-11e5-b2f0-ed70239de01d] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+  t (https://www.pinterest.com/login/:23)
+  c (https://www.pinterest.com/login/:23)
+  p (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+[INFO  - 2015-12-17T18:37:54.828Z] GhostDriver - Main - running on port 2239
+[INFO  - 2015-12-17T18:37:55.449Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:37:55.449Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:37:55.449Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:37:55.449Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 49a56a50-a4ed-11e5-963f-1ff4131bb8a6
+[ERROR - 2015-12-17T18:38:11.937Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:38:11.937Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+  t (https://www.pinterest.com/login/:23)
+  c (https://www.pinterest.com/login/:23)
+  p (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+[ERROR - 2015-12-17T18:38:12.099Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:38:12.099Z] Session [49a56a50-a4ed-11e5-963f-1ff4131bb8a6] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+  t (https://www.pinterest.com/login/:23)
+  c (https://www.pinterest.com/login/:23)
+  p (https://www.pinterest.com/login/:23)
+  (anonymous function) (https://www.pinterest.com/login/:23)
+[INFO  - 2015-12-17T18:40:01.945Z] GhostDriver - Main - running on port 30524
+[INFO  - 2015-12-17T18:40:02.294Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:40:02.294Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:40:02.294Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:40:02.294Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 95401f00-a4ed-11e5-a8fe-93e6c9e315d6
+[ERROR - 2015-12-17T18:40:03.097Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:40:03.097Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[ERROR - 2015-12-17T18:40:03.188Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T18:40:03.188Z] Session [95401f00-a4ed-11e5-a8fe-93e6c9e315d6] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[INFO  - 2015-12-17T18:42:51.101Z] GhostDriver - Main - running on port 7917
+[INFO  - 2015-12-17T18:42:51.426Z] Session [fa0febe0-a4ed-11e5-a5d0-6fd993ac3b5d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:42:51.427Z] Session [fa0febe0-a4ed-11e5-a5d0-6fd993ac3b5d] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:42:51.427Z] Session [fa0febe0-a4ed-11e5-a5d0-6fd993ac3b5d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:42:51.427Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fa0febe0-a4ed-11e5-a5d0-6fd993ac3b5d
+[ERROR - 2015-12-17T18:42:52.851Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450377772813
+[INFO  - 2015-12-17T18:47:51.079Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T18:49:18.936Z] GhostDriver - Main - running on port 28158
+[INFO  - 2015-12-17T18:49:19.289Z] Session [e13ed030-a4ee-11e5-a358-792d292649de] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:49:19.289Z] Session [e13ed030-a4ee-11e5-a358-792d292649de] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:49:19.289Z] Session [e13ed030-a4ee-11e5-a358-792d292649de] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:49:19.289Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e13ed030-a4ee-11e5-a358-792d292649de
+[INFO  - 2015-12-17T18:50:11.885Z] GhostDriver - Main - running on port 34573
+[INFO  - 2015-12-17T18:50:12.194Z] Session [00c779c0-a4ef-11e5-ba16-2759f2111cc0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:50:12.194Z] Session [00c779c0-a4ef-11e5-ba16-2759f2111cc0] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:50:12.194Z] Session [00c779c0-a4ef-11e5-ba16-2759f2111cc0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:50:12.195Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00c779c0-a4ef-11e5-ba16-2759f2111cc0
+[ERROR - 2015-12-17T18:50:17.396Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450378217360
+[INFO  - 2015-12-17T18:55:11.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T18:56:54.489Z] GhostDriver - Main - running on port 37674
+[INFO  - 2015-12-17T18:56:54.726Z] Session [f0b4fc00-a4ef-11e5-be30-7f730894f455] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T18:56:54.726Z] Session [f0b4fc00-a4ef-11e5-be30-7f730894f455] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T18:56:54.726Z] Session [f0b4fc00-a4ef-11e5-be30-7f730894f455] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T18:56:54.726Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f0b4fc00-a4ef-11e5-be30-7f730894f455
+[ERROR - 2015-12-17T18:56:56.149Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450378616108
+[INFO  - 2015-12-17T19:01:54.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:02:08.642Z] GhostDriver - Main - running on port 13882
+[INFO  - 2015-12-17T19:02:08.905Z] Session [abf90c40-a4f0-11e5-bfae-074888c98b5a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:02:08.905Z] Session [abf90c40-a4f0-11e5-bfae-074888c98b5a] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:02:08.905Z] Session [abf90c40-a4f0-11e5-bfae-074888c98b5a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:02:08.905Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: abf90c40-a4f0-11e5-bfae-074888c98b5a
+[ERROR - 2015-12-17T19:02:16.277Z] Session [abf90c40-a4f0-11e5-bfae-074888c98b5a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:02:16.277Z] Session [abf90c40-a4f0-11e5-bfae-074888c98b5a] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[INFO  - 2015-12-17T19:03:37.121Z] GhostDriver - Main - running on port 11809
+[INFO  - 2015-12-17T19:03:37.312Z] Session [e0aabba0-a4f0-11e5-b86a-718f5d738550] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:03:37.312Z] Session [e0aabba0-a4f0-11e5-b86a-718f5d738550] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:03:37.312Z] Session [e0aabba0-a4f0-11e5-b86a-718f5d738550] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:03:37.313Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e0aabba0-a4f0-11e5-b86a-718f5d738550
+[INFO  - 2015-12-17T19:04:52.297Z] GhostDriver - Main - running on port 24191
+[INFO  - 2015-12-17T19:04:52.504Z] Session [0d7bf810-a4f1-11e5-b501-e588099cfdfd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:04:52.504Z] Session [0d7bf810-a4f1-11e5-b501-e588099cfdfd] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:04:52.504Z] Session [0d7bf810-a4f1-11e5-b501-e588099cfdfd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:04:52.504Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0d7bf810-a4f1-11e5-b501-e588099cfdfd
+[ERROR - 2015-12-17T19:04:53.979Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450379093949
+[INFO  - 2015-12-17T19:08:07.422Z] GhostDriver - Main - running on port 6095
+[INFO  - 2015-12-17T19:08:07.649Z] Session [81cce2b0-a4f1-11e5-8af5-a727a1fc6593] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:08:07.649Z] Session [81cce2b0-a4f1-11e5-8af5-a727a1fc6593] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:08:07.650Z] Session [81cce2b0-a4f1-11e5-8af5-a727a1fc6593] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:08:07.650Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 81cce2b0-a4f1-11e5-8af5-a727a1fc6593
+[INFO  - 2015-12-17T19:13:07.399Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:14:48.666Z] GhostDriver - Main - running on port 35525
+[INFO  - 2015-12-17T19:14:48.924Z] Session [70fae580-a4f2-11e5-bc18-755dcc6d8f46] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:14:48.924Z] Session [70fae580-a4f2-11e5-bc18-755dcc6d8f46] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:14:48.924Z] Session [70fae580-a4f2-11e5-bc18-755dcc6d8f46] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:14:48.924Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 70fae580-a4f2-11e5-bc18-755dcc6d8f46
+[ERROR - 2015-12-17T19:14:50.428Z] Session [70fae580-a4f2-11e5-bc18-755dcc6d8f46] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:14:50.428Z] Session [70fae580-a4f2-11e5-bc18-755dcc6d8f46] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/:23)
+  (anonymous function) (https://www.pinterest.com/:23)
+  t (https://www.pinterest.com/:23)
+  c (https://www.pinterest.com/:23)
+  p (https://www.pinterest.com/:23)
+  (anonymous function) (https://www.pinterest.com/:23)
+  sendEvent (:0)
+  _keyEvent (:/ghostdriver/inputs.js:325)
+  _pressKey (:/ghostdriver/inputs.js:280)
+  _sendKeys (:/ghostdriver/inputs.js:237)
+  _postValueCommand (:/ghostdriver/request_handlers/webelement_request_handler.js:288)
+  _handle (:/ghostdriver/request_handlers/webelement_request_handler.js:72)
+  _reroute (:/ghostdriver/request_handlers/request_handler.js:61)
+  _handle (:/ghostdriver/request_handlers/session_request_handler.js:120)
+  _reroute (:/ghostdriver/request_handlers/request_handler.js:61)
+  _handle (:/ghostdriver/request_handlers/router_request_handler.js:78)
+[INFO  - 2015-12-17T19:17:44.444Z] GhostDriver - Main - running on port 31918
+[INFO  - 2015-12-17T19:17:44.737Z] Session [d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:17:44.737Z] Session [d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:17:44.737Z] Session [d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:17:44.737Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5
+[ERROR - 2015-12-17T19:17:46.198Z] Session [d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:17:46.198Z] Session [d9c5d4d0-a4f2-11e5-a5f3-218a58d79fc5] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/:23)
+  (anonymous function) (https://www.pinterest.com/:23)
+  t (https://www.pinterest.com/:23)
+  c (https://www.pinterest.com/:23)
+  p (https://www.pinterest.com/:23)
+  (anonymous function) (https://www.pinterest.com/:23)
+  sendEvent (:0)
+  _keyEvent (:/ghostdriver/inputs.js:325)
+  _pressKey (:/ghostdriver/inputs.js:280)
+  _sendKeys (:/ghostdriver/inputs.js:237)
+  _postValueCommand (:/ghostdriver/request_handlers/webelement_request_handler.js:288)
+  _handle (:/ghostdriver/request_handlers/webelement_request_handler.js:72)
+  _reroute (:/ghostdriver/request_handlers/request_handler.js:61)
+  _handle (:/ghostdriver/request_handlers/session_request_handler.js:120)
+  _reroute (:/ghostdriver/request_handlers/request_handler.js:61)
+  _handle (:/ghostdriver/request_handlers/router_request_handler.js:78)
+[INFO  - 2015-12-17T19:22:44.436Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:27:44.419Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:27:53.304Z] GhostDriver - Main - running on port 1734
+[INFO  - 2015-12-17T19:27:53.478Z] Session [449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:27:53.479Z] Session [449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:27:53.479Z] Session [449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:27:53.480Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1
+[ERROR - 2015-12-17T19:27:59.811Z] Session [449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:27:59.811Z] Session [449c2f10-a4f4-11e5-ab61-cf4ca42b2bb1] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+  t (https://www.pinterest.com/search:23)
+  c (https://www.pinterest.com/search:23)
+  p (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+[INFO  - 2015-12-17T19:32:53.280Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:36:29.550Z] GhostDriver - Main - running on port 14439
+[INFO  - 2015-12-17T19:36:29.745Z] Session [7853f8a0-a4f5-11e5-b9a7-e3b63d55677e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:36:29.745Z] Session [7853f8a0-a4f5-11e5-b9a7-e3b63d55677e] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:36:29.745Z] Session [7853f8a0-a4f5-11e5-b9a7-e3b63d55677e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:36:29.746Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7853f8a0-a4f5-11e5-b9a7-e3b63d55677e
+[ERROR - 2015-12-17T19:36:36.118Z] Session [7853f8a0-a4f5-11e5-b9a7-e3b63d55677e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:36:36.118Z] Session [7853f8a0-a4f5-11e5-b9a7-e3b63d55677e] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.623e879805f4cd6bcaf2.js:26)
+  a (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+  t (https://www.pinterest.com/search:23)
+  c (https://www.pinterest.com/search:23)
+  p (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+[INFO  - 2015-12-17T19:39:39.688Z] GhostDriver - Main - running on port 28313
+[INFO  - 2015-12-17T19:39:39.896Z] Session [e9aab610-a4f5-11e5-b833-49d8c037f28a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:39:39.896Z] Session [e9aab610-a4f5-11e5-b833-49d8c037f28a] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:39:39.897Z] Session [e9aab610-a4f5-11e5-b833-49d8c037f28a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0"}
+[INFO  - 2015-12-17T19:39:39.897Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e9aab610-a4f5-11e5-b833-49d8c037f28a
+[ERROR - 2015-12-17T19:39:44.222Z] Session [e9aab610-a4f5-11e5-b833-49d8c037f28a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:39:44.222Z] Session [e9aab610-a4f5-11e5-b833-49d8c037f28a] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  a (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+  t (https://www.pinterest.com/search:23)
+  c (https://www.pinterest.com/search:23)
+  p (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+[INFO  - 2015-12-17T19:41:24.369Z] GhostDriver - Main - running on port 32947
+[INFO  - 2015-12-17T19:41:24.557Z] Session [280d0480-a4f6-11e5-8cbe-c734a693c3fa] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:41:24.557Z] Session [280d0480-a4f6-11e5-8cbe-c734a693c3fa] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:41:24.557Z] Session [280d0480-a4f6-11e5-8cbe-c734a693c3fa] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0"}
+[INFO  - 2015-12-17T19:41:24.557Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 280d0480-a4f6-11e5-8cbe-c734a693c3fa
+[ERROR - 2015-12-17T19:41:44.601Z] Session [280d0480-a4f6-11e5-8cbe-c734a693c3fa] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:41:44.601Z] Session [280d0480-a4f6-11e5-8cbe-c734a693c3fa] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  a (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+  t (https://www.pinterest.com/search:23)
+  c (https://www.pinterest.com/search:23)
+  p (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+[INFO  - 2015-12-17T19:42:28.757Z] GhostDriver - Main - running on port 20395
+[INFO  - 2015-12-17T19:42:28.966Z] Session [4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:42:28.966Z] Session [4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:42:28.966Z] Session [4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/20121026 Firefox/16.0"}
+[INFO  - 2015-12-17T19:42:28.967Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba
+[ERROR - 2015-12-17T19:42:42.505Z] Session [4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:42:42.505Z] Session [4e7097e0-a4f6-11e5-a7f4-f51a5a3dbdba] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  a (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+  t (https://www.pinterest.com/search:23)
+  c (https://www.pinterest.com/search:23)
+  p (https://www.pinterest.com/search:23)
+  (anonymous function) (https://www.pinterest.com/search:23)
+[INFO  - 2015-12-17T19:46:08.180Z] GhostDriver - Main - running on port 4388
+[INFO  - 2015-12-17T19:46:08.377Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:46:08.377Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:46:08.377Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:46:08.377Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d1388340-a4f6-11e5-8da3-69733ddc8c59
+[ERROR - 2015-12-17T19:46:11.273Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:46:11.273Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  a (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[ERROR - 2015-12-17T19:46:11.398Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-17T19:46:11.399Z] Session [d1388340-a4f6-11e5-8da3-69733ddc8c59] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.786ac2d75e872ff98793.js:26)
+  a (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[ERROR - 2015-12-17T19:46:11.659Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450381571623
+[INFO  - 2015-12-17T19:51:08.736Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:56:08.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T19:57:31.165Z] GhostDriver - Main - running on port 9817
+[INFO  - 2015-12-17T19:57:31.374Z] Session [68514770-a4f8-11e5-8722-0b3f8c137a88] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:57:31.375Z] Session [68514770-a4f8-11e5-8722-0b3f8c137a88] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:57:31.375Z] Session [68514770-a4f8-11e5-8722-0b3f8c137a88] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:57:31.376Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 68514770-a4f8-11e5-8722-0b3f8c137a88
+[INFO  - 2015-12-17T19:59:40.472Z] GhostDriver - Main - running on port 35827
+[INFO  - 2015-12-17T19:59:40.680Z] Session [b563f620-a4f8-11e5-ab21-8f9a68b25ca4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T19:59:40.680Z] Session [b563f620-a4f8-11e5-ab21-8f9a68b25ca4] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T19:59:40.680Z] Session [b563f620-a4f8-11e5-ab21-8f9a68b25ca4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T19:59:40.680Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b563f620-a4f8-11e5-ab21-8f9a68b25ca4
+[INFO  - 2015-12-17T20:01:08.726Z] GhostDriver - Main - running on port 11622
+[INFO  - 2015-12-17T20:01:09.002Z] Session [ea092260-a4f8-11e5-bd07-299be63db071] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:01:09.002Z] Session [ea092260-a4f8-11e5-bd07-299be63db071] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:01:09.002Z] Session [ea092260-a4f8-11e5-bd07-299be63db071] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:01:09.002Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ea092260-a4f8-11e5-bd07-299be63db071
+[INFO  - 2015-12-17T20:03:08.665Z] GhostDriver - Main - running on port 29912
+[INFO  - 2015-12-17T20:03:08.861Z] Session [317a0380-a4f9-11e5-adfc-c9ed83f50c5c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:03:08.862Z] Session [317a0380-a4f9-11e5-adfc-c9ed83f50c5c] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:03:08.862Z] Session [317a0380-a4f9-11e5-adfc-c9ed83f50c5c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:03:08.862Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 317a0380-a4f9-11e5-adfc-c9ed83f50c5c
+[INFO  - 2015-12-17T20:08:08.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T20:10:58.125Z] GhostDriver - Main - running on port 3872
+[INFO  - 2015-12-17T20:10:58.303Z] Session [49490690-a4fa-11e5-83fb-ad1f4faedfa2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:10:58.304Z] Session [49490690-a4fa-11e5-83fb-ad1f4faedfa2] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:10:58.304Z] Session [49490690-a4fa-11e5-83fb-ad1f4faedfa2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:10:58.304Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 49490690-a4fa-11e5-83fb-ad1f4faedfa2
+[INFO  - 2015-12-17T20:13:53.145Z] GhostDriver - Main - running on port 45814
+[INFO  - 2015-12-17T20:13:53.366Z] Session [b1a0e8c0-a4fa-11e5-878c-5bc3bd852281] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:13:53.366Z] Session [b1a0e8c0-a4fa-11e5-878c-5bc3bd852281] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:13:53.367Z] Session [b1a0e8c0-a4fa-11e5-878c-5bc3bd852281] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:13:53.367Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b1a0e8c0-a4fa-11e5-878c-5bc3bd852281
+[INFO  - 2015-12-17T20:15:46.302Z] GhostDriver - Main - running on port 9891
+[INFO  - 2015-12-17T20:15:46.526Z] Session [f5139a30-a4fa-11e5-9642-bf415a32f913] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:15:46.526Z] Session [f5139a30-a4fa-11e5-9642-bf415a32f913] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:15:46.526Z] Session [f5139a30-a4fa-11e5-9642-bf415a32f913] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:15:46.526Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f5139a30-a4fa-11e5-9642-bf415a32f913
+[INFO  - 2015-12-17T20:21:31.553Z] GhostDriver - Main - running on port 27938
+[INFO  - 2015-12-17T20:21:31.792Z] Session [c2e014c0-a4fb-11e5-a6f1-fd89ea972866] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:21:31.792Z] Session [c2e014c0-a4fb-11e5-a6f1-fd89ea972866] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:21:31.792Z] Session [c2e014c0-a4fb-11e5-a6f1-fd89ea972866] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:21:31.792Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c2e014c0-a4fb-11e5-a6f1-fd89ea972866
+[INFO  - 2015-12-17T20:26:47.640Z] GhostDriver - Main - running on port 12498
+[INFO  - 2015-12-17T20:26:47.865Z] Session [7f43ece0-a4fc-11e5-ac03-55cd27c8ebc5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:26:47.865Z] Session [7f43ece0-a4fc-11e5-ac03-55cd27c8ebc5] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:26:47.865Z] Session [7f43ece0-a4fc-11e5-ac03-55cd27c8ebc5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:26:47.865Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7f43ece0-a4fc-11e5-ac03-55cd27c8ebc5
+[INFO  - 2015-12-17T20:31:48.484Z] GhostDriver - Main - running on port 2744
+[INFO  - 2015-12-17T20:31:48.777Z] Session [32a08550-a4fd-11e5-9fe5-9973349fc8a0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:31:48.777Z] Session [32a08550-a4fd-11e5-9fe5-9973349fc8a0] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:31:48.778Z] Session [32a08550-a4fd-11e5-9fe5-9973349fc8a0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:31:48.778Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 32a08550-a4fd-11e5-9fe5-9973349fc8a0
+[INFO  - 2015-12-17T20:34:12.888Z] GhostDriver - Main - running on port 44409
+[INFO  - 2015-12-17T20:34:13.088Z] Session [88a47ab0-a4fd-11e5-a621-7357242e489e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:34:13.088Z] Session [88a47ab0-a4fd-11e5-a621-7357242e489e] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:34:13.088Z] Session [88a47ab0-a4fd-11e5-a621-7357242e489e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:34:13.088Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 88a47ab0-a4fd-11e5-a621-7357242e489e
+[INFO  - 2015-12-17T20:39:12.866Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T20:40:54.347Z] GhostDriver - Main - running on port 32693
+[INFO  - 2015-12-17T20:40:54.547Z] Session [77ee1bd0-a4fe-11e5-b9ff-cde3b196b8e3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T20:40:54.547Z] Session [77ee1bd0-a4fe-11e5-b9ff-cde3b196b8e3] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T20:40:54.547Z] Session [77ee1bd0-a4fe-11e5-b9ff-cde3b196b8e3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T20:40:54.547Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 77ee1bd0-a4fe-11e5-b9ff-cde3b196b8e3
+[INFO  - 2015-12-17T20:45:54.482Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T20:50:54.458Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:03:24.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:08:24.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:13:24.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:20:08.115Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:25:08.092Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:36:49.537Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:41:49.513Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:46:49.490Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T21:55:11.195Z] GhostDriver - Main - running on port 11782
+[INFO  - 2015-12-17T21:55:11.795Z] Session [d8a87bf0-a508-11e5-a257-a1f4b3ea8f5f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T21:55:11.796Z] Session [d8a87bf0-a508-11e5-a257-a1f4b3ea8f5f] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T21:55:11.796Z] Session [d8a87bf0-a508-11e5-a257-a1f4b3ea8f5f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T21:55:11.796Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d8a87bf0-a508-11e5-a257-a1f4b3ea8f5f
+[INFO  - 2015-12-17T22:15:05.292Z] GhostDriver - Main - running on port 3376
+[INFO  - 2015-12-17T22:15:05.895Z] Session [a065af30-a50b-11e5-8807-5b0746592c2f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-17T22:15:05.895Z] Session [a065af30-a50b-11e5-8807-5b0746592c2f] - page.customHeaders:  - {}
+[INFO  - 2015-12-17T22:15:05.895Z] Session [a065af30-a50b-11e5-8807-5b0746592c2f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-17T22:15:05.895Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a065af30-a50b-11e5-8807-5b0746592c2f
+[INFO  - 2015-12-17T22:20:05.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T22:25:05.306Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T22:30:05.283Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T22:35:05.260Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-17T22:40:05.237Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T15:42:31.211Z] GhostDriver - Main - running on port 5341
+[INFO  - 2015-12-18T15:42:31.721Z] Session [f36d8e40-a59d-11e5-a0fc-795f045739cb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T15:42:31.721Z] Session [f36d8e40-a59d-11e5-a0fc-795f045739cb] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T15:42:31.721Z] Session [f36d8e40-a59d-11e5-a0fc-795f045739cb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T15:42:31.722Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f36d8e40-a59d-11e5-a0fc-795f045739cb
+[ERROR - 2015-12-18T15:42:49.573Z] Session [f36d8e40-a59d-11e5-a0fc-795f045739cb] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-18T15:42:49.573Z] Session [f36d8e40-a59d-11e5-a0fc-795f045739cb] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.65489bfc72a3351aec62.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.65489bfc72a3351aec62.js:26)
+  i (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[ERROR - 2015-12-18T15:42:50.009Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450453369969
+[INFO  - 2015-12-18T15:43:29.949Z] GhostDriver - Main - running on port 17959
+[INFO  - 2015-12-18T15:43:30.231Z] Session [164da030-a59e-11e5-bb2a-4d49a1b7f63e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T15:43:30.231Z] Session [164da030-a59e-11e5-bb2a-4d49a1b7f63e] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T15:43:30.232Z] Session [164da030-a59e-11e5-bb2a-4d49a1b7f63e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T15:43:30.232Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 164da030-a59e-11e5-bb2a-4d49a1b7f63e
+[ERROR - 2015-12-18T15:43:36.414Z] Session [164da030-a59e-11e5-bb2a-4d49a1b7f63e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.signin')
+[ERROR - 2015-12-18T15:43:36.414Z] Session [164da030-a59e-11e5-bb2a-4d49a1b7f63e] - page.onError - stack:
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.65489bfc72a3351aec62.js:26)
+  (anonymous function) (:0)
+  (anonymous function) (https://s-passets-cache-ak0.pinimg.com/webapp/js/chunk.65489bfc72a3351aec62.js:26)
+  i (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+  t (https://www.pinterest.com/login:23)
+  c (https://www.pinterest.com/login:23)
+  p (https://www.pinterest.com/login:23)
+  (anonymous function) (https://www.pinterest.com/login:23)
+[ERROR - 2015-12-18T15:43:36.893Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1450453416863
+[INFO  - 2015-12-18T15:43:55.008Z] GhostDriver - Main - running on port 45491
+[INFO  - 2015-12-18T15:43:55.306Z] Session [253f7640-a59e-11e5-9066-7f5ee52e8208] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T15:43:55.306Z] Session [253f7640-a59e-11e5-9066-7f5ee52e8208] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T15:43:55.306Z] Session [253f7640-a59e-11e5-9066-7f5ee52e8208] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T15:43:55.307Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 253f7640-a59e-11e5-9066-7f5ee52e8208
+[INFO  - 2015-12-18T15:48:44.972Z] GhostDriver - Main - running on port 14846
+[INFO  - 2015-12-18T15:48:45.258Z] Session [d212ee60-a59e-11e5-a42a-53faf0049321] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T15:48:45.258Z] Session [d212ee60-a59e-11e5-a42a-53faf0049321] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T15:48:45.258Z] Session [d212ee60-a59e-11e5-a42a-53faf0049321] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T15:48:45.258Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d212ee60-a59e-11e5-a42a-53faf0049321
+[INFO  - 2015-12-18T15:51:24.146Z] GhostDriver - Main - running on port 12584
+[INFO  - 2015-12-18T15:51:24.410Z] Session [30ef7250-a59f-11e5-98a6-f9e6ceee694b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T15:51:24.410Z] Session [30ef7250-a59f-11e5-98a6-f9e6ceee694b] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T15:51:24.411Z] Session [30ef7250-a59f-11e5-98a6-f9e6ceee694b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T15:51:24.411Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 30ef7250-a59f-11e5-98a6-f9e6ceee694b
+[INFO  - 2015-12-18T18:54:45.374Z] GhostDriver - Main - running on port 43666
+[INFO  - 2015-12-18T18:54:45.575Z] Session [ce240220-a5b8-11e5-99a7-dd953975a717] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T18:54:45.575Z] Session [ce240220-a5b8-11e5-99a7-dd953975a717] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T18:54:45.575Z] Session [ce240220-a5b8-11e5-99a7-dd953975a717] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T18:54:45.575Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ce240220-a5b8-11e5-99a7-dd953975a717
+[INFO  - 2015-12-18T18:59:45.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T19:04:45.470Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T19:09:45.458Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T19:14:18.321Z] GhostDriver - Main - running on port 22008
+[INFO  - 2015-12-18T19:14:18.645Z] Session [89587010-a5bb-11e5-82f2-972afb6cc8f1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T19:14:18.645Z] Session [89587010-a5bb-11e5-82f2-972afb6cc8f1] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T19:14:18.646Z] Session [89587010-a5bb-11e5-82f2-972afb6cc8f1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T19:14:18.646Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 89587010-a5bb-11e5-82f2-972afb6cc8f1
+[INFO  - 2015-12-18T19:19:18.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T19:24:13.982Z] GhostDriver - Main - running on port 11674
+[INFO  - 2015-12-18T19:24:14.263Z] Session [ec5c6120-a5bc-11e5-9d85-5725090dfea9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T19:24:14.263Z] Session [ec5c6120-a5bc-11e5-9d85-5725090dfea9] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T19:24:14.263Z] Session [ec5c6120-a5bc-11e5-9d85-5725090dfea9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T19:24:14.263Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ec5c6120-a5bc-11e5-9d85-5725090dfea9
+[INFO  - 2015-12-18T19:25:59.471Z] GhostDriver - Main - running on port 44852
+[INFO  - 2015-12-18T19:25:59.774Z] Session [2b3fed80-a5bd-11e5-a13a-295ec04b2078] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T19:25:59.774Z] Session [2b3fed80-a5bd-11e5-a13a-295ec04b2078] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T19:25:59.774Z] Session [2b3fed80-a5bd-11e5-a13a-295ec04b2078] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T19:25:59.774Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2b3fed80-a5bd-11e5-a13a-295ec04b2078
+[INFO  - 2015-12-18T20:59:03.404Z] GhostDriver - Main - running on port 43952
+[INFO  - 2015-12-18T20:59:03.652Z] Session [2b803ef0-a5ca-11e5-9896-f3f2599e3965] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T20:59:03.652Z] Session [2b803ef0-a5ca-11e5-9896-f3f2599e3965] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T20:59:03.652Z] Session [2b803ef0-a5ca-11e5-9896-f3f2599e3965] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T20:59:03.652Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2b803ef0-a5ca-11e5-9896-f3f2599e3965
+[INFO  - 2015-12-18T21:03:12.574Z] GhostDriver - Main - running on port 1126
+[INFO  - 2015-12-18T21:03:12.927Z] Session [c0147090-a5ca-11e5-9544-adcc17e64dbc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T21:03:12.927Z] Session [c0147090-a5ca-11e5-9544-adcc17e64dbc] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T21:03:12.929Z] Session [c0147090-a5ca-11e5-9544-adcc17e64dbc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T21:03:12.929Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c0147090-a5ca-11e5-9544-adcc17e64dbc
+[INFO  - 2015-12-18T21:24:05.691Z] GhostDriver - Main - running on port 5319
+[INFO  - 2015-12-18T21:24:05.999Z] Session [aaf85bb0-a5cd-11e5-b009-177ac9a8f3f9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T21:24:05.999Z] Session [aaf85bb0-a5cd-11e5-b009-177ac9a8f3f9] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T21:24:05.999Z] Session [aaf85bb0-a5cd-11e5-b009-177ac9a8f3f9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T21:24:05.999Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aaf85bb0-a5cd-11e5-b009-177ac9a8f3f9
+[INFO  - 2015-12-18T21:29:02.932Z] GhostDriver - Main - running on port 33450
+[INFO  - 2015-12-18T21:29:03.266Z] Session [5c2765c0-a5ce-11e5-b444-8953b74f7d65] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T21:29:03.267Z] Session [5c2765c0-a5ce-11e5-b444-8953b74f7d65] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T21:29:03.267Z] Session [5c2765c0-a5ce-11e5-b444-8953b74f7d65] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T21:29:03.267Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5c2765c0-a5ce-11e5-b444-8953b74f7d65
+[INFO  - 2015-12-18T21:34:39.546Z] GhostDriver - Main - running on port 10166
+[INFO  - 2015-12-18T21:34:39.840Z] Session [24c483a0-a5cf-11e5-b5a1-0353d8b7d318] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T21:34:39.840Z] Session [24c483a0-a5cf-11e5-b5a1-0353d8b7d318] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T21:34:39.840Z] Session [24c483a0-a5cf-11e5-b5a1-0353d8b7d318] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T21:34:39.840Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 24c483a0-a5cf-11e5-b5a1-0353d8b7d318
+[INFO  - 2015-12-18T21:39:39.756Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T21:44:39.744Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-12-18T21:46:40.764Z] GhostDriver - Main - running on port 6198
+[INFO  - 2015-12-18T21:46:41.096Z] Session [d2ab9930-a5d0-11e5-93c1-8f0545a9c825] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-18T21:46:41.096Z] Session [d2ab9930-a5d0-11e5-93c1-8f0545a9c825] - page.customHeaders:  - {}
+[INFO  - 2015-12-18T21:46:41.096Z] Session [d2ab9930-a5d0-11e5-93c1-8f0545a9c825] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-18T21:46:41.097Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d2ab9930-a5d0-11e5-93c1-8f0545a9c825
